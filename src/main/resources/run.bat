@@ -1,0 +1,1 @@
+java -jar http-cmd-launcher-0.1-full.jar

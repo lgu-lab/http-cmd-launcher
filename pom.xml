@@ -31,7 +31,7 @@
 					<!-- MainClass in manifest make an executable jar -->
 					<archive>
 						<manifest>
-							<mainClass>org.lgulab.webserver.WebServerMonoContext</mainClass>
+							<mainClass>org.lgulab.httpserver.WebServerMultiContext</mainClass>
 						</manifest>
 					</archive>
 					<finalName>${project.artifactId}-${project.version}-full</finalName>
